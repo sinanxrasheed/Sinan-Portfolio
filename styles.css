@@ -1,3 +1,11 @@
 body {
-    background-color:rgb(66, 50, 34);
+    background-color:#FFFFED
+}
+
+.profile-picture {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 0 auto;
 }
