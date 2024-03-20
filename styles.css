@@ -51,7 +51,7 @@ p {
 }
 
 .animation div:first-child {
-  animation: text-animation 8s infinite;
+  animation: text-animation 7s infinite;
 }
 
 .first div {
@@ -59,6 +59,10 @@ p {
 }
 .second div {
   background-color:#CD921E;
+}
+
+.third div {
+  background-color: #20a7d8;
 }
 
 @keyframes text-animation {
