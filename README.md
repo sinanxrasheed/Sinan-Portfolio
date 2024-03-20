@@ -1,1 +1,1 @@
-This is my first personal sproject!
+This is my first personal project!
